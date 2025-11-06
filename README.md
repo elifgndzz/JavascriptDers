@@ -2,8 +2,9 @@
 <h3 align="center">🎓 İstanbul Gelişim Üniversitesi | Ön Yüz (Frontend) Yazılım Geliştirme Öğrencisi</h3>
 
 🌱 Hakkımda
-Ben bir yazılım geliştirme öğrencisiyim ve web dünyasının ön yüz tarafına ilgi duyuyorum.  
-HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern arayüzler tasarlamayı öğreniyor ve kendimi geliştiriyorum.
+
+Ben bir yazılım geliştirme öğrencisiyim ve web tasarımı dünyasının ön yüz tarafına ilgi duyuyorum.  
+<b> HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern arayüzler tasarlamayı öğreniyor ve kendimi geliştiriyorum.</b>
 
 🚀 Hedefim bu alanda ilerlemek ve proje üretmek.
 
