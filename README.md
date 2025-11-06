@@ -8,7 +8,7 @@ HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern aray
 🚀 Hedefim bu alanda ilerlemek ve proje üretmek.
 
 📫Bana ulaşmak istersen:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif gündüz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/elif-g%C3%BCnd%C3%BCz-29102a336)
 
 
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elifece3452@gmail.com)elifece3452@gmail.com
