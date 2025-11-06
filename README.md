@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
+<h1 align="center">👋 Merhaba, ben Elif Gündüz</h1>
+<h3 align="center">🎓 İstanbul Gelişim Üniversitesi | Ön Yüz (Frontend) Yazılım Geliştirme Öğrencisi</h3>
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+🌱 Hakkımda
+Ben bir yazılım geliştirme öğrencisiyim ve web dünyasının ön yüz tarafına ilgi duyuyorum.  
+HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern arayüzler tasarlamayı öğreniyor ve kendimi geliştiriyorum.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+🚀 Hedefim bu alanda ilerlemek ve proje üretmek.
+
+📫Bana ulaşmak istersen:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif gündüz/)
+
+
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elifece3452@gmail.com)elifece3452@gmail.com
