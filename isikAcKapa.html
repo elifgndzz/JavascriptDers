@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <div id="durum">Akıllı Işık Kontrolü</div>
+    <button onclick="isikAc()">Işığı Aç</button>
+    <button onclick="isikKapat()">Işığı Kapat</button>
+    
+</body>
+
+<script>
+
+    function isikAc()
+    {
+        document.body.style.backgroundColor="yellow";
+        document.getElementById("durum").textContent="Işık Açık";
+        durum.style.fontSize="40px";
+        durum.style.color="red";
+    }
+
+    function isikKapat()
+    {
+        document.body.style.backgroundColor="gray";
+        document.getElementById("durum").textContent="Işık Kapalı";
+        durum.style.fontSize="40px";
+        durum.style.color="lightgray";
+    }
+    
+</script>
+
+</html>
