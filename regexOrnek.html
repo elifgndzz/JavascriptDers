@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ornek</title>
+</head>
+<body>
+    
+</body>
+<script>
+    let pattern=/\d{3}-\d{3}-\d{4}/;
+    let metin="555-123-4567";
+    let metin2="5551234567";
+    let metin3="55-123-4567";
+    document.writeln("1.Numara: 555-123-4567: ");
+    document.writeln(pattern.test(metin));
+    document.writeln("<br>");
+    document.writeln("2. Numara: 5551234567: ");
+    document.writeln(pattern.test(metin2));
+    document.writeln("<br>");
+    document.writeln("2.Numara: 55-123-4567: ");
+    document.writeln(pattern.test(metin3));
+
+</script>
+</html>
